@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá 👋, meu nome é André!
+#### Por favor, não deixe de me acompanhar aqui no Github!
+Sou apaixonado e entusiasta por inovadoras tecnologias Web. Procuro me aperfeiçoar ao máximo para trazer soluções significativas para a comunidade!
 
-<!--
-**andrebonfim/andrebonfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: REACT NATIVE / REACT / JS / HTML / CSS
 
-Here are some ideas to get you started:
+🌱 Atualmente estou estudando Javascript com foco em React!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me encontre nas redes sociais... 😁
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/andre_bmta)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://twitter.com/andre_bmta)
+
+
+
+
+
